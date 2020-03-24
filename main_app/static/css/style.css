@@ -1,0 +1,21 @@
+.left_contacts_block {
+	text-align: left;
+	float: left;
+	width: 360px;
+	margin-right: 3em;
+	margin-bottom: 3em;
+}
+
+.right_contacts_block {
+	float:left;
+	width: 360px;
+	margin-right: 3em;
+	margin-bottom: 3em;
+}
+.contact {
+	margin: 1em;
+}
+
+.multiline_text {
+	margin-top: 0.5em; 
+}
